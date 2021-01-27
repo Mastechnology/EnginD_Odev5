@@ -1,0 +1,12 @@
+/Users/mfg/Projects/OyunHw_5/OyunHw_5/bin/Debug/netcoreapp3.1/OyunHw_5.deps.json
+/Users/mfg/Projects/OyunHw_5/OyunHw_5/bin/Debug/netcoreapp3.1/OyunHw_5.runtimeconfig.json
+/Users/mfg/Projects/OyunHw_5/OyunHw_5/bin/Debug/netcoreapp3.1/OyunHw_5.runtimeconfig.dev.json
+/Users/mfg/Projects/OyunHw_5/OyunHw_5/bin/Debug/netcoreapp3.1/OyunHw_5.dll
+/Users/mfg/Projects/OyunHw_5/OyunHw_5/bin/Debug/netcoreapp3.1/OyunHw_5.pdb
+/Users/mfg/Projects/OyunHw_5/OyunHw_5/obj/Debug/netcoreapp3.1/OyunHw_5.csprojAssemblyReference.cache
+/Users/mfg/Projects/OyunHw_5/OyunHw_5/obj/Debug/netcoreapp3.1/OyunHw_5.AssemblyInfoInputs.cache
+/Users/mfg/Projects/OyunHw_5/OyunHw_5/obj/Debug/netcoreapp3.1/OyunHw_5.AssemblyInfo.cs
+/Users/mfg/Projects/OyunHw_5/OyunHw_5/obj/Debug/netcoreapp3.1/OyunHw_5.csproj.CoreCompileInputs.cache
+/Users/mfg/Projects/OyunHw_5/OyunHw_5/obj/Debug/netcoreapp3.1/OyunHw_5.dll
+/Users/mfg/Projects/OyunHw_5/OyunHw_5/obj/Debug/netcoreapp3.1/OyunHw_5.pdb
+/Users/mfg/Projects/OyunHw_5/OyunHw_5/obj/Debug/netcoreapp3.1/OyunHw_5.genruntimeconfig.cache
